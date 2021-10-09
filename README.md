@@ -1,22 +1,19 @@
-# Thesis-Files
+# Thesis-Files Repository
 
-This repository contains the Max/MSP Project files of the applications for the bachelor's thesis
-"Interaktive Anwendungen zur algorithmischen Generierung von Schlagzeugmusik & Perspektiven für assistiertes Musizieren" by Isabella Kloska.
+Der Ordner "Thesis-Files" enthält die drei Max/MSP-Applikationen, die für die Bachelorarbeit
+"Interaktive Anwendungen zur algorithmischen Generierung von Schlagzeugmusik & Perspektiven für assistiertes Musizieren"
+(von Isabella Kloska) entstanden sind.
 
-See what the applications look like:
-If you click on one of the main folders, you will see two pictures.
-One of them shows the User Interface (the main Max Patch) of the application in Presentation Mode, the other shows how it looks in Edit/Developer's Mode.
+Jeder der drei Unterordner enthält für die jeweilige Applikation:
 
-See the js files:
-If you then click on the "...Raw_Files"-folder, there are the project file and two sub folders: "patchers" and "code".
+1. Bilder (PNGs) der Applikation:
+Im "Presentation Mode" (User Interface) und im "Edit Mode" (Ansicht des Max-Patchs mit allen Max-Objekten).
 
-The "code" folder contains the JavaScript/NodeJS files of the application.
-The manually written, relevant files are:
+2. Die Projektdateien der Applikation ("...Raw_Files"-Ordner):
+Über die Projektdatei kann die Anwendung als editierbarer Max-Patch geöffnet werden, falls auf dem Computer Max/MSP installiert ist.
+In den Unterordnern sind der Main-Patch, die Sub-Patches (z.B. get16thIndex) und die JavaScript/NodeJS-Dateien enthalten.
 
-magenta_interpolation.js (Experimant 1)
-bjorklund.js (Experiment 2)
-generate_euclidean_rhythm.js (Experiment 3)
-magenta_tap.js (Experiment 3)
-
-The "patchers" folder contains the Max/MSP patches, made with Max/MSPs graphical, node-based IDE.
-You won't be able to open and see those if you don't have Max/MSP installed on your computer.
+Die Namen der relevanten JavaScript/NodeJS Files (zu finden im jeweiligen "...Raw_Files"-Ordner unter "code"):
+Experiment 1: magenta_interpolation.js
+Experiment 2: bjorklund.js
+Experiment 3: generate_euclidean_rhythm.js & magenta_tap.js
