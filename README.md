@@ -14,6 +14,9 @@ Im "Presentation Mode" (User Interface) und im "Edit Mode" (Ansicht des Max-Patc
 In den Unterordnern sind der Main-Patch, die Sub-Patches (z.B. get16thIndex) und die JavaScript/NodeJS-Dateien enthalten.
 
 Die Namen der relevanten JavaScript/NodeJS Files (zu finden im jeweiligen "...Raw_Files"-Ordner unter "code"):
+
 Experiment 1: magenta_interpolation.js
+
 Experiment 2: bjorklund.js
+
 Experiment 3: generate_euclidean_rhythm.js & magenta_tap.js
