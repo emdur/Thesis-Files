@@ -20,3 +20,6 @@ Experiment 1: magenta_interpolation.js
 Experiment 2: bjorklund.js
 
 Experiment 3: generate_euclidean_rhythm.js & magenta_tap.js
+
+
+_Anmerkung: Die USB-Stick-Version der Arbeit enthält auch Executables (ausführbar ohne Max-Installation), diese sind zu groß zum Hochladen._
